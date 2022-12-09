@@ -1,0 +1,15 @@
+{
+  "name": "ProjectName",
+  "displayName": "ProjectName",
+  "onesignal": "",
+  "appUrl": "https://app.declutterthemind.com/",
+  "appSchema": "declutterthemindapp://",
+  "bootSplashSettings": {
+    "color": "",
+    "size": 100
+  },
+  "fullscreen": {
+    "withBar": true,
+    "withoutBar": true
+  }
+}
